@@ -50,7 +50,7 @@ The dashboard contains:
 - **Trend line chart** for year-wise total pollutant levels
 - **Bar charts** comparing pollutant values per city
 - **AQI category pie chart**
-- **Interactive filters** (City, Year, Pollutant type)
+- **Interactive filters** (City, Year, Cities)
 
 ---
 

@@ -65,5 +65,3 @@ The dashboard contains:
 3. Interact with filters to explore insights
 
 ---
-
-### 📁 Project Structure
